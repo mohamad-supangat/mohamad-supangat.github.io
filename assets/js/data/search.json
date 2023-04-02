@@ -1,0 +1,38 @@
+[
+  
+  {
+    "title": "Halloooo Neovim",
+    "url": "/posts/welcome-neovim/",
+    "categories": "coret-coret, linux",
+    "tags": "neovim, linux, coret-coret",
+    "date": "2023-04-01 15:05:13 +0700",
+    
+
+
+
+
+
+    
+    "snippet": "Hallo sobat 😁 selamat sore pada jam saya menulis artikelkali ini saya akan sedikit bercerita workspace saya setiap hari, mulai daristartup os sampai shutdown 💤 heheKenalan dengan NeovimApa itu Neov...",
+    "content": "Hallo sobat 😁 selamat sore pada jam saya menulis artikelkali ini saya akan sedikit bercerita workspace saya setiap hari, mulai daristartup os sampai shutdown 💤 heheKenalan dengan NeovimApa itu Neovim ???Mesti kalian sudah familiar neovim 😁, jika belum mungkin kalian sudah familiardengan tex editor, contoh saja Notepad, dan yang sedang bumming buatantetangga sebelh yaitu Visual Studio CodeLalu apa hubunganya neovim dengan text editor ? 😅https://wiki.archlinux.org/title/Neovim Neovim is a fork of Vim aimingto improve the codebase, allowing for easier implementation of APIs,improved user experience and plugin implementation.Yah simple saja menurutku neovim adalah sebuah tempat bagiku untuk menulis 😀emang benar fungsinya untuk nulis, dan juga pekerjaan sehari hari, jadiga kerasa sekarang setiap buka laptop yang pertama di buka pasti si NeovimheheYang unik dari Neovimkenapa saya lebih memilih Neovim dari pada text editor lain yak 😀,jadi intinya aku sendiri cocok cocok aja sihHistory sebelum neovimPertama kali kenal html pas SD aku sendiri masih pake hp Symbian yang legendadisitu aku pake notepad biasa dan ngetik artikel untuk wapblogMasuk SMP juga masih samaMasuk SMK mulai dikenalin komputer dan kenal yang namanya AdobedDreamwavererr atau apa itu namanya susah ngetik haha 😀lugu sekali ya tapi ya mau gimana sampe berapa taun karna saya orangnya sukaoprek gonta ganti os sampai ketemula os linux ini,Lalu aku berkeliling mencari code editor yang memang ringan dan sesuai kebutuhanmulai dari Netbeans Geary dan Code editor yang ada di repo resmi ubuntuwaktu ituSampai waktu lulus SMK nyari kerja sana sini, dan ketemulah dengan OS ArchLinux yang membuat saya berkeliling Reddit dan gabung komunitas sana siniApa yang Neovim Tawarkan ??      Terminal    Paling menarik disini adalah terminal, kenapa terminal ?? makin kesini syaalihat hampir framework dan programmer di wajibkan mengetahui yang namanyaCLI sebut saja ngetik perintah untuk menjalankan program.    dan saya jatuh cinta dengan Terminal di Linux. kenapa bukan CMDDD di WINDWW? banyak fitur yang di tawarkan, dan sangat ringan untuk berjalan denganleluasa    Siapa luke smith ?? orang luar si yang jelas, dengan banyak karyanya direpository github, salah satunya Fork untuk Simple Terminal ynag menurutsaya sangat menarik dan saya gunakan sehari hari    https://github.com/lukesmithxyz/st    Neovim bisa di jalankan di Terminal itu yang membuat saya waw dan betahmenggunakanya karna workspace saya jadi cuma membuka terminal dan terminalsaya suka dan sangat suka terminal, karna hampir membuka laptop yang sayabutuhkan hanya satu jendela yaitu Terminal dan itu membuat aku pribadisenang karna tidak membutuhkan ram yang banyak untuk membuka NetBeans Semisalyang sering membuat saya kesal karna makanbanyak ram        Dapat jalan dengan SSH    Bagi kalian yang biasa kerja remote, atau biasa megang server pasti kenal lahyang namanya SSH, disini kamnu bisa remote pc dari jarak jauh, dan karenapoint pertama di atas Neovim juga bisa di jalankan dari remote SSHmenurutku ini fitu yang keren juga karena ga perlu repot repot download -&gt;edit -&gt; upload, jadi kita bisa ssh ke sever untuk edit file, dan ya udahkarna editnya sudah ada di server    dan juga saya biasa menggunkaan sshfs dan edit di local itu juga fine danwork 100% hehe 😀        Plugin yang banyak: LSP, debugging, dan lain    Bagi kalian yang belum tau mulai dari neovim 0.5 banyak fitur yang sangatmenarik yang membuat begitu banyak plugin dari comunitas dan orangbermunculan satu persatu dan itu yang membuat penggunna senang,    referensi dokumen plugin:          https://github.com/rockerBOO/awesome-neovim      https://neovimcraft.com/      https://vimawesome.com/      https://github.com/search?q=neovim+plugin      Mungkin segitu dulu nanti sambung ke artikel selanjutnya, karena ini mungkinjadi cerita yang sangat panjang, dan saya tulis bukan cuma satu kali mukaTerimakasih untuk yang sudah membaca coretan coretan saya di blog iniSalam OpenSource 😁Ditulis dengan  OS: Linux Manjaro  Editor : NeoVim 0.5"
+  },
+  
+  {
+    "title": "Halloooo jekyll",
+    "url": "/posts/welcome/",
+    "categories": "coret-coret",
+    "tags": "coret-coret",
+    "date": "2023-04-01 14:08:13 +0700",
+    
+
+
+
+
+
+    
+    "snippet": "Hohoho, Hai semuanya sebelumnya mungkin perkenalan singkatnama lengkap saya mohamad supangat, sudah lama rasanya menulis blog coret coret,semenjak platform mywapblog tahun 2012disini mungkin saya a...",
+    "content": "Hohoho, Hai semuanya sebelumnya mungkin perkenalan singkatnama lengkap saya mohamad supangat, sudah lama rasanya menulis blog coret coret,semenjak platform mywapblog tahun 2012disini mungkin saya akan sedikit menceritakan pengalaman - pengalaman, sharingtips dan berbagi pembelajaranTernyata membuat website jekyll ini mudah banget loh heheheheTerimakasih semuanya"
+  }
+  
+]
+
