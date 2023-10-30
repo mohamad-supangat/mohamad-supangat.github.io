@@ -13,17 +13,17 @@ baseurl: ""
 lang: id
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: Asia/Jakarta
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Supangat Blogs # the main title
+title: Saya Siapa ❔ # the main title
 
-tagline: Semua tentang Mohamad Supangat # it will display as the sub-title
+tagline: Entah lah aku juga tidak tahu tujuan hidup itu seperti apa 😢  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Bercerita sedikit pengalaman dan apa yang saya temukan di kehidupan, jangan lupa mampir
+  Bercerita sedikit pengalaman dan apa yang saya temukan di kehidupan, ketika bekerja, ketika belajar 💻
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ""
